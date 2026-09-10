@@ -1,9 +1,9 @@
-# ============================================================
+
 # Project  : Robo Speaker - Text to Speech Application
 # Author   : Shivani Sharma
 # Language : Python
 # Library  : pyttsx3 (works offline, no internet needed)
-# ============================================================
+
 
 import pyttsx3  # Text-to-speech library
 
